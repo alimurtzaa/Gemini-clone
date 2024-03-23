@@ -1,9 +1,9 @@
 
 # Gemini Clone
 
-1.This clone can provide information, answer questions, offer advice, assist with tasks.
+This clone can provide information, answer questions, offer advice, assist with tasks.
 
-2.This projects uses Vertex AI Gemini API.
+This projects uses Vertex AI Gemini API.
 
 
 ## Authors
