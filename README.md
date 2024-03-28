@@ -1,8 +1,8 @@
 
 # Gemini Clone
-This clone can provide information, answer questions, offer advice, assist with tasks.
+Developed a web-based conversational interface using Google AI's API for developers.
 
-This projects uses Vertex AI Gemini API.
+Integrated the API with ReactJS to create a user-friendly interactive experience.
 
 Preview: https://gemini-clone-project.netlify.app/
 
