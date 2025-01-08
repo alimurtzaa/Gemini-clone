@@ -4,7 +4,7 @@ Developed a web-based conversational interface using Google AI's API for develop
 
 Integrated the API with ReactJS to create a user-friendly interactive experience.
 
-Preview: https://gemini-clone-project.netlify.app/
+Preview: [Click Here](https://my-gemini-clonee.netlify.app)
 
 ## Authors
 
